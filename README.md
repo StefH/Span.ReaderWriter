@@ -21,3 +21,7 @@ var writer = new SpanWriter(bytes);
 writer.Write(123);
 writer.Write("test");
 ```
+
+# Credits / References
+- [Tedd.SpanUtils](https://github.com/tedd/Tedd.SpanUtils)
+- [Microsoft Refence Source](https://referencesource.microsoft.com)
