@@ -1,7 +1,7 @@
 # Info
 SpanReader and SpanWriter which wraps a `Span<byte>` and provide a convenient functionality for reading and writing.
 
-[![NuGet](https://buildstats.info/nuget/Span.ReaderWriter)](https://www.nuget.org/packages/Span.ReaderWriter)
+[![NuGet](https://img.shields.io/nuget/v/Span.ReaderWriter)](https://www.nuget.org/packages/Span.ReaderWriter)
 
 ### Usage
 Read some values from a `Span<byte>`
