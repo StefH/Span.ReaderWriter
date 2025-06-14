@@ -1,7 +1,5 @@
-# Info
+## Info
 SpanReader and SpanWriter which wraps a `Span<byte>` and provide a convenient functionality for reading and writing.
-
-[![NuGet](https://img.shields.io/nuget/v/Span.ReaderWriter)](https://www.nuget.org/packages/Span.ReaderWriter)
 
 ### Usage
 Read some values from a `Span<byte>`
@@ -22,11 +20,7 @@ writer.Write(123);
 writer.Write("test");
 ```
 
-## Credits / References
-- [Tedd.SpanUtils](https://github.com/tedd/Tedd.SpanUtils)
-- [Microsoft Refence Source](https://referencesource.microsoft.com)
-
-## Sponsors
+### Sponsors
 
 [Entity Framework Extensions](https://entityframework-extensions.net/?utm_source=StefH) and [Dapper Plus](https://dapper-plus.net/?utm_source=StefH) are major sponsors and proud to contribute to the development of **Span.ReaderWriter**.
 
