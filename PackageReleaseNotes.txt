@@ -1,3 +1,4 @@
-#  ()
+# 0.1.1 (14 June 2025)
+- #2 Update Microsoft.SourceLink.GitHub and add sponsor links [enhancement]
 
 The full release notes can be found here: https://github.com/StefH/Span.ReaderWriter/blob/main/ReleaseNotes.md
