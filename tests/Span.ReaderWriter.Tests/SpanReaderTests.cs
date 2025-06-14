@@ -1,4 +1,4 @@
-using FluentAssertions;
+using AwesomeAssertions;
 using Span.ReaderWriter.Ebml;
 using Xunit;
 
